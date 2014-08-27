@@ -1,0 +1,8 @@
+{
+  "name": "ng-jwplayer",
+  "version": "0.0.1",
+  "devDependencies": {
+    "angular": "~1.2.23"
+  },
+  "dependencies": {}
+}
